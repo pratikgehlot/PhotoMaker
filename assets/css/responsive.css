@@ -1,0 +1,304 @@
+@media screen and (max-width: 1350px) {
+
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+
+}
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	header {
+		background: rgb(0, 0, 0);
+	}	
+	ul.nav.navbar-nav li a {
+	border-radius: 25px;
+    padding: 8px 13px;
+	}
+	.navbar-default .navbar-nav li a {
+		font-size:13px;
+	}
+	ul.navbar-nav li.nav-item {
+		margin: 0 0px;
+		border-bottom: dotted 1px #6d6d6d;
+	}
+
+	#header_one .header_left_sec ul.header_left_sec_list li{
+	
+    margin:0;
+    font-size: 11px;
+	}
+
+	
+	#header_one ul.nav.navbar-nav li a{
+	padding: 8px 5px;
+    font-size: 13px;
+	}
+	
+	#header_one .header_right_sec ul li a i{
+		font-size: 13px;
+	}
+
+
+	.navbar {
+    padding: 0;
+    margin: 10px -15px;
+	}
+
+	a.navbar-brand img {
+	    width: 100%;
+	    max-width: 100%;
+	    float: left;
+	}
+	
+	.navbar-toggler {
+	    float: right;
+	    margin: 13px 1px;
+	    padding: 3px 10px;
+	    color: #000;
+	    border-color: rgba(0,0,0,.1);
+	    background: #eee;
+	}
+	
+figcaption.slider-text h1 {
+    font-size: 50px;
+}
+figcaption.slider-text h4 {
+    font-size: 30px;
+}
+	.price-box ul li{
+		font-size: 14px;
+	}
+	.price-box h4{
+		font-size: 20px;
+	}
+	.blog-text h3{
+		font-size: 16px;
+	}
+footer p, .tnc p {
+    text-align: center;
+	margin: 5px 0;
+	font-size: 12px;
+
+}
+
+
+}
+@media screen and (min-width: 768px) {
+
+	
+}
+@media screen and (max-width: 767px) {
+
+	.navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+    background: #fff;
+    float: right;
+    margin: 12px 0;
+}
+ul.navbar-nav li.nav-item {
+    margin: 0 0px;
+    font-family: 'Righteous', cursive;
+    border-bottom: dotted 1px #6d6d6d;
+}
+
+    a.navbar-brand {
+        padding: 10px 0px;
+    }
+    .navbar-toggle {
+        margin-top: 28px;
+        margin-right: 15px;
+    }
+    .navbar-default {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav li a {
+        padding: 10px 15px;
+    }
+    .navbar-default .navbar-nav li .dropdown-menu li a,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
+
+    .navbar-nav {
+        padding: 10px 0;
+    }
+	
+header{
+	background: #000;
+}
+
+	header.sticky {
+		position:relative;
+	}
+	
+	.page-search-tag{
+		width: 100%;
+	}
+.Slider .owl-dots {
+    bottom: 0;
+    transform: rotate(359deg);
+    right: 0;
+    top: unset;
+}
+
+.counter-section {
+    position: relative;
+    width: 100%;
+    border-top: solid 1px #000;
+    background-image: url(../img/counterbg.jpg);
+    background-repeat: repeat;
+    display: flex;
+    padding: 8px 0;
+}
+
+.price-box{
+	margin-bottom: 15px;
+}
+
+footer p, .tnc p {
+    text-align: center;
+	margin: 5px 0;
+
+}
+
+
+}
+@media screen and (min-width: 641px) and (max-width: 767px) {
+
+	header.sticky {
+		position:relative;
+	}
+	ul.nav.navbar-nav li .home-color {
+		color: #f57f25;
+		background-color:transparent !important;
+	}
+	ul.nav.navbar-nav {
+		margin-top:0;
+	}
+
+	.navbar {
+    padding: 0;
+    margin: 10px -15px;
+	}
+
+	a.navbar-brand img {
+	    width: 100%;
+	    max-width: 80%;
+	    float: left;
+	}
+	
+	.navbar-toggler {
+    float: right;
+    margin: 13px 1px;
+    padding: 3px 10px;
+}
+
+figcaption.slider-text h1 {
+    font-size: 20px;
+}
+figcaption.slider-text h4 {
+    font-size: 18px;
+}
+	
+
+
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+
+	header.sticky {
+		position:relative;
+	}
+	ul.nav.navbar-nav li .home-color {
+		color: #f57f25;
+		background-color:transparent !important;
+	}
+	ul.nav.navbar-nav {
+		margin-top:0;
+	}
+	.navbar {
+    padding: 0;
+    margin: 5px -15px;
+    background: #000;
+	}
+
+	a.navbar-brand img {
+	    width: 100%;
+	    max-width: 80%;
+	    float: left;
+	}
+	
+	.navbar-toggler {
+    float: right;
+    margin: 13px 1px 0;
+    padding: 3px 10px;
+}
+
+figcaption.slider-text h1 {
+    font-size: 16px;
+}
+figcaption.slider-text h4 {
+    font-size: 15px;
+}
+	
+	
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	
+    #header_one .top-bar ul.header_left_sec_list li {
+
+    margin: 0 5px;
+    font-size: 12px;
+
+    }
+
+	header.sticky {
+		position:relative;
+	}
+	.pagination-box span {
+		width:35px;
+		height:35px;
+		padding-top:3px;
+	}
+	ul.nav.navbar-nav {
+		margin-top:0;
+	}
+	
+	.navbar {
+    padding: 0;
+    margin: 0 -15px;
+    background: #000;
+	}
+
+	a.navbar-brand img {
+	    width: 100%;
+	    max-width: 80%;
+	    float: left;
+	}
+	
+	.navbar-toggler {
+    float: right;
+    margin: 13px 1px;
+    padding: 3px 5px;
+}
+
+figcaption.slider-text h1 {
+    font-size: 16px;
+}
+figcaption.slider-text h4 {
+    font-size: 15px;
+}
+
+.theme-heading p {
+    width: 100%;
+    margin: 5px auto;
+    line-height: 26px;
+}
+
+
+}
